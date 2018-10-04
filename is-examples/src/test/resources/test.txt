@@ -1,0 +1,22 @@
+ITEM 2
+Binding=Electronics
+Brand=SANOXY
+Feature=Converts analog L/R signals to digital S/PDIF or TOSLink. Both TOSlink and Coax digital outputs may be used simultaneously
+Feature=Digital audio cable length can run up to 15 feet without signal degradation. Supports output sampling rate at 48KHz
+Feature=Provides electromagnetic noise free transmission
+Feature=Supports uncompressed 2-channel LPCM digital audio signal output. Easy to install and simple to operate.
+Feature=Package Includes: 1 x Analog Stereo to Digital Optical Coax Audio Converter, 1 x Power Adapter(supply:110V~240V), 1 x User Manual
+Label=BrainyTrade
+LegalDisclaimer=Must be at least 18 & over to purchase
+ListPrice=5860USD$58.60
+Manufacturer=BrainyTrade
+Model=SANOXY_ANLG_AU-DIG_AU-2
+MPN=SANOXY_ANLG_AU-DIG_AU-2
+PackageDimensions=24054060470
+PackageQuantity=1
+PartNumber=SANOXY_ANLG_AU-DIG_AU-2
+ProductGroup=Home Theater
+ProductTypeName=TUNER
+Publisher=BrainyTrade
+Studio=BrainyTrade
+Title=SANOXY� Analog to Digital Audio Converter Adapter
